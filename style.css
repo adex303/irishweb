@@ -8,6 +8,9 @@ body {
       display: flex;
       justify-content: space-around;
   }
+  ol li{
+    color:black;
+  }
   .topnav {
     overflow: hidden;
     background-color: #e8271a;
@@ -60,6 +63,9 @@ body {
       position: relative;
       padding: 40px 70px;
       color: #d40e0e;
+  }
+  h2{
+    color: #d40e0e;
   }
   p{
       padding-top: 2%;
